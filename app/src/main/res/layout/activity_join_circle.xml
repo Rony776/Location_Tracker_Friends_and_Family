@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".JoinCircleActivity">
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="88dp"
+        android:text="@string/enter_circle_code_here"
+        android:textAlignment="center"
+        android:textSize="20sp" />
+
+    <com.goodiebag.pinview.Pinview
+        android:id="@+id/pinview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="153dp"
+        app:pinLength="6"
+        app:pinWidth="35sp"
+        app:pinHeight="40sp"
+        app:cursorVisible="true"
+        app:forceKeyboard="true"
+        app:inputType="number"
+        ></com.goodiebag.pinview.Pinview>
+
+    <Button
+        android:id="@+id/button_join"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginBottom="111dp"
+        android:background="@color/colorPrimary"
+        android:onClick="JoinBuuttonClick"
+        android:text="@string/join"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

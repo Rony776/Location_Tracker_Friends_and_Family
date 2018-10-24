@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Location Tracker FnF</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="enter_password">Enter Your Password</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="log_in">Log In</string>
+    <string name="name">Name</string>
+    <string name="nextt">Next</string>
+    <string name="xx">XXXXX</string>
+    <string name="invitecode">Share this code ,Your friends need this code for join your circle</string>
+    <string name="register">Register</string>
+    <string name="enter_name">Enter Your Name</string>
+    <string name="title_activity_my_navigation">MyNavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="join_circle">Join Circle</string>
+    <string name="my_circle">My Circle</string>
+    <string name="joined_circle">Joined Circle</string>
+    <string name="invite_member">Invite Member</string>
+    <string name="share_location_message">Share Location</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="enter_circle_code_here">Enter circle code here to join circle</string>
+    <string name="join">Join</string>
+    <string name="title_activity_my_circle">MyCircleActivity</string>
+    <string name="my_users">My Users</string>
+</resources>

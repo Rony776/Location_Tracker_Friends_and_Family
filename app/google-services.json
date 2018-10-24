@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "133193754205",
+    "firebase_url": "https://location-tracker-8541e.firebaseio.com",
+    "project_id": "location-tracker-8541e",
+    "storage_bucket": "location-tracker-8541e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133193754205:android:b66526a99a38b51c",
+        "android_client_info": {
+          "package_name": "com.techdoctorbd.locationtrackerfnf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133193754205-mh3b5pp97qgod4k3307nc2govkbe9b04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiKVIBv23v4fCp2uIn1VdA3YSKbtzQaL4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
